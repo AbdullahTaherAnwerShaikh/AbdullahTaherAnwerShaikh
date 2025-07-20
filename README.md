@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Skillset:</h2>
 
-<h2><br/><a href="https://github.com/joshmadakor1">Programmer</a></h2> <br/>
+<h2><br/><a href="https://github.com/AbdullahTaherAnwerShaikh">Programmer</a></h2> <br/>
 <p>-Passionate about writing clean, efficient code across multiple languages including C++, Python, and open to widening my expertise. I enjoy problem-solving and am currently focused on mastering data structures and algorithms to strengthen my backend and algorithmic thinking.</p>
 
 <h2><a href="www.linkedin.com/in/abdullahtaheranwershaikh">C++ Developer</a> </h2><br/>
@@ -15,6 +15,12 @@
 
 <h2><a href="www.linkedin.com/in/abdullahtaheranwershaikh">AI Engineer | Machine Learning Researcher</a></h2>
 <p>-Enthusiastic about the future of AI and machine learning. Currently exploring Python-based ML libraries (like NumPy, pandas, and scikit-learn), with a focus on learning model training, data preprocessing, and basic neural networks.</p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AbdullahTaherAnwerShaikh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AbdullahTaherAnwerShaikh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahTaherAnwerShaikh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 <h2> 🤳 Connect with me:</h2>
 
