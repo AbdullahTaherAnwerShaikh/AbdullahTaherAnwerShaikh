@@ -1,23 +1,58 @@
 <h1>Hi, I'm Abdullah! <br/></h1>
-<h3>About me</h3>
-<p>I'm a Computer Engineering student at Cyprus International University, currently in my 4th semester, with a growing passion for solving real-world problems through technology. I specialize in C++, Python, and web development, and I’m actively building a strong foundation in Data Structures and Algorithms to sharpen my problem-solving skills. My interests lie in artificial intelligence and machine learning, and I’m continuously expanding my knowledge in these areas through self-driven projects and coursework. I'm a fast learner, open to new technologies, and eager to contribute to innovative teams where I can grow as a developer while making meaningful impact.</p>
+
+🎓 I'm a 4th-semester Computer Engineering student at **Cyprus International University**, passionate about solving real-world problems through technology.
+
+💡 I specialize in **C++**, **Python**, and **web development**, and I’m building a solid foundation in **Data Structures and Algorithms (DSA)** to enhance my problem-solving skills.
+
+🚀 My interests lie in **Artificial Intelligence** and **Machine Learning**, and I'm actively working on self-driven projects and coursework to deepen my knowledge.
+
+---
+
+## 🧠 About Me
+
+- 🔍 Currently exploring: **AI/ML**, **Backend Development**, and **DSA**
+- 📚 Fast learner, open to new technologies, and always looking to grow
+- 🤝 Looking to collaborate on open-source, internships, and research opportunities
+
 
 <h2>👨‍💻 Skillset:</h2>
 
-<h2><br/><a href="https://github.com/AbdullahTaherAnwerShaikh">Programmer</a></h2> <br/>
-<p>-Passionate about writing clean, efficient code across multiple languages including C++, Python, and open to widening my expertise. I enjoy problem-solving and am currently focused on mastering data structures and algorithms to strengthen my backend and algorithmic thinking.</p>
+<h2><br/><a href="https://github.com/AbdullahTaherAnwerShaikh">👨‍💻 Programmer</a></h2> <br/>
 
-<h2><a href="https://www.linkedin.com/in/abdullahtaheranwershaikh">C++ Developer</a> </h2><br/>
-<p>-Building strong fundamentals in C++ with a focus on object-oriented programming, algorithms, and memory management. Currently working on DSA challenges to deepen my understanding and improve competitive coding skills.</p>
+- Clean, efficient coding with a strong focus on logic and optimization
+- Languages: **C++**, **Python**, **JavaScript**.
 
-<h2><a href="https://www.linkedin.com/in/abdullahtaheranwershaikh">Web Developer</a></h2> <br/>
-<p>-Skilled in building responsive and user-friendly web interfaces using HTML, CSS, JavaScript, and basic frameworks. Open to exploring modern front-end tools like React and Tailwind CSS to elevate user experience.</p>
+<h2><a href="https://www.linkedin.com/in/abdullahtaheranwershaikh">🧩 C++ Developer</a> </h2><br/>
 
-<h2><a href="https://www.linkedin.com/in/abdullahtaheranwershaikh">AI Engineer | Machine Learning Researcher</a></h2>
-<p>-Enthusiastic about the future of AI and machine learning. Currently exploring Python-based ML libraries (like NumPy, pandas, and scikit-learn), with a focus on learning model training, data preprocessing, and basic neural networks.</p>
+I’m developing solid fundamentals in **C++**, with a focus on:
+
+- **Object-Oriented Programming (OOP)**
+- **Memory management** and **pointers**
+- Solving **DSA challenges** to improve my competitive programming skills
+
+<h2><a href="https://www.linkedin.com/in/abdullahtaheranwershaikh">🌐 Web Developer</a></h2> <br/>
+
+I'm building interactive and responsive web applications using:
+
+- Core web technologies: **HTML**, **CSS**, **JavaScript**
+- Currently exploring: **React**, **Tailwind CSS**, and modern front-end workflows
+
+I'm excited to create user-friendly experiences and bring designs to life in the browser.
 
 
-<h2>💻 Tech Stack:</h2>
+<h2><a href="https://www.linkedin.com/in/abdullahtaheranwershaikh">🤖 Aspiring AI|ML Developer</a></h2>
+
+I'm deeply interested in **Artificial Intelligence and Machine Learning**, and actively exploring its foundational concepts. Currently, I’m focused on:
+
+- Learning Python libraries like **NumPy**, **pandas**, and **scikit-learn**
+- Understanding the basics of **data preprocessing**, **model training**, and **evaluation**
+- Studying **core AI/ML theory** through online courses and tutorials
+
+I'm looking forward to building beginner projects and eventually contributing to more complex ML applications.
+
+
+
+<h2>💻 Tools & Technologies I'm Working With:</h2>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
