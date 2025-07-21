@@ -61,7 +61,7 @@ I'm looking forward to building beginner projects and eventually contributing to
 
 ![](https://github-readme-stats.vercel.app/api?username=AbdullahTaherAnwerShaikh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AbdullahTaherAnwerShaikh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahTaherAnwerShaikh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahTaherAnwerShaikh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <h2> 🤳 Connect with me:</h2>
