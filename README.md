@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-- 🔍 Currently exploring: **AI/ML**, **Backend Development**, and **DSA**
+- 🔍 Currently exploring: **AI/ML**, **Frontend Development**, and **DSA**
 - 📚 Fast learner, open to new technologies, and always looking to grow
 - 🤝 Looking to collaborate on open-source, internships, and research opportunities
 
@@ -20,7 +20,7 @@
 <h2><br/><a href="https://github.com/AbdullahTaherAnwerShaikh">👨‍💻 Programmer</a></h2> <br/>
 
 - Clean, efficient coding with a strong focus on logic and optimization
-- Languages: **C++**, **Python**, **JavaScript**.
+- Languages: **C++**, **Python**, **JavaScript**, **HTML** & **CSS**.
 
 <h2><a href="https://www.linkedin.com/in/abdullahtaheranwershaikh">🧩 C++ Developer</a> </h2><br/>
 
