@@ -13,6 +13,7 @@
 - 🔍 Currently exploring: **AI/ML**, **Frontend Development**, and **DSA**
 - 📚 Fast learner, open to new technologies, and always looking to grow
 - 🤝 Looking to collaborate on open-source, internships, and research opportunities
+- 📖 Eager to learn and adapt to new programming languages, frameworks, and technologies as needed.
 
 
 <h2>👨‍💻 Skillset:</h2>
