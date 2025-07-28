@@ -62,9 +62,9 @@ I'm looking forward to building beginner projects and eventually contributing to
 <h2>📊 GitHub Stats:</h2> <br/>
 
 
-![](https://github-readme-stats.vercel.app/api?username=AbdullahTaherAnwerShaikh&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AbdullahTaherAnwerShaikh&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahTaherAnwerShaikh&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AbdullahTaherAnwerShaikh&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AbdullahTaherAnwerShaikh&theme=blue_navy&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahTaherAnwerShaikh&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=AbdullahTaherAnwerShaikh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 [![](https://visitcount.itsvg.in/api?id=AbdullahTaherAnwerShaikh&icon=0&color=0)](https://visitcount.itsvg.in)
