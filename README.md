@@ -2,7 +2,7 @@
 
 🎓 I'm a 4th-semester Computer Engineering student at **Cyprus International University**, passionate about solving real-world problems through technology.
 
-💡 I specialize in **C++**, **Python**, and **web development**, and I’m building a solid foundation in **Data Structures and Algorithms (DSA)** to enhance my problem-solving skills.
+💡 I specialize in **C++**, **Python**, and **web development**, and I’m building a solid foundation in **Data Structures and Algorithms (DSA)** to enhance my problem-solving skills & competetive coding.
 
 🚀 My interests lie in **Artificial Intelligence** and **Machine Learning**, and I'm actively working on self-driven projects and coursework to deepen my knowledge.
 
