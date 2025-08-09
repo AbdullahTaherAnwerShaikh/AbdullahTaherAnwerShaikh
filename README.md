@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abdullah! <br/></h1> 
+<h1>Hi, I'm Abdullah! <br/></h1>
 
 🎓 I'm a 4th-semester Computer Engineering student at **Cyprus International University**, passionate about solving real-world problems through technology.
 
