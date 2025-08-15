@@ -6,7 +6,7 @@
 
 🚀 My interests lie in **Artificial Intelligence** and **Machine Learning**, and I'm actively working on self-driven projects and coursework to deepen my knowledge.
  
----
+--- 
  
 ## 🧠 About Me
 
