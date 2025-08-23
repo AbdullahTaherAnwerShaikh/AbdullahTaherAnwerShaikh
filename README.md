@@ -4,7 +4,7 @@
 
 💡 I specialize in **C++**, **Python**, and **web development**, and I’m building a solid foundation in **Data Structures and Algorithms (DSA)** to enhance my problem-solving skills & competetive coding.
 
-🚀 My interests lie in **Artificial Intelligence** and **Machine Learning**, and I'm actively working on self-driven projects and coursework to deepen my knowledge.
+🚀 My interests lie in **Artificial Intelligence** and **Machine Learning**, and I'm actively working on self-driven projects and coursework to deepen my knowledge. 
   
 --- 
  
